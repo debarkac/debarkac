@@ -1,4 +1,4 @@
-![MasterHead](https://www.reddit.com/r/Cyberpunk/comments/17orhba/coding_by_pixel_jeff/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdzZTlyZm00azl4NXo5eWF5djdvbGNtYTJqcjM1OXZ1ZzFnNzQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L9avnfFeT6AvjJKmgM/giphy.gif)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Debarka Chakraborti</h1>
 <h3 align="center">A passionate software developer and machine learning enthusiast</h3>
 
