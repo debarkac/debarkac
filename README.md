@@ -2,6 +2,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Debarka Chakraborti</h1>
 <h3 align="center">A passionate software developer and machine learning enthusiast</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=debarkac&label=Profile%20views&color=0e75b6&style=flat" alt="debarkac" /> </p>
+
 <!--
 **debarkac/debarkac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
